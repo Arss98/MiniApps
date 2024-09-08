@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "86EF3686-D7DB-4811-B6AE-A9CD13BD3786"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0F78F023-5057-414D-85C3-EEB029CF67FA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MiniApps/Services/Api/ApiEndpoint.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "ApiEnpoint"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "212B7451-4BE7-423F-A8E4-7DE43E36C852"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MiniApps/Services/Api/Api.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "getWeather(city:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "212B7451-4BE7-423F-A8E4-7DE43E36C852 - dac8216e30c3bdee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MiniApps.Api.getWeather(city: Swift.String) -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;MiniApps.LocalWeatherModel&gt;, MiniApps.ErrorAPI&gt;"
+                  moduleName = "MiniApps"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arsendadaev/Documents/Developer/Swift/MiniApps/MiniApps/Services/Api/Api.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "364">
+               </Location>
+               <Location
+                  uuid = "212B7451-4BE7-423F-A8E4-7DE43E36C852 - 388c23300fb5ae69"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 0 of MiniApps.Api.getWeather(city: Swift.String) -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;MiniApps.LocalWeatherModel&gt;, MiniApps.ErrorAPI&gt;"
+                  moduleName = "MiniApps"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arsendadaev/Documents/Developer/Swift/MiniApps/MiniApps/Services/Api/Api.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CFF3DEB0-92EE-4BA6-88BB-FD96B504FD78"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MiniApps/Module/WeatherView/WeatherPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "fetchWeather(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
